@@ -32,7 +32,9 @@ def monopoly_with_third_tier
         :b_and_o_railroad => {
           
         },
-        :four => 4 
+        :shortline_railroad => {
+          
+        },
       }
     }
   }
