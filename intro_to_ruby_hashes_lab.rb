@@ -19,9 +19,10 @@ def monopoly_with_third_tier
       :rent_in_dollars => {
         :one => 1,
         :two => 2,
-        :three
+        :three => 3,
+        :four => 4
       },
-      :names
+      :names => 
     }
   }
 end
